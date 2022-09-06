@@ -14,7 +14,13 @@ I participate in the design phases as well as in technical meetings, facilitate 
   <img src="https://img.shields.io/badge/Mac%20os-000000?style=flat-square&logo=apple&logoColor=white alt="Imac">
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 - :seedling: I’m currently working on **improving my Python knowledge** as well as my **django experience**
 - :feet: I'm running **MacOs** 💯٪
 - :zap: I'm using Jetbrains tools like **PyCharm** and **Webstorm**, and I like playing with **vim**. My shell is <a href="https://github.com/ohmyzsh/ohmyzsh">**Oh-my-zsh**</a> and my favorite command-line tool is **iTerm2**
+
+Any freelance work? 💼 Do reach [here](mailto:francoisnoel62@gamil.com) ☺️
+
 
