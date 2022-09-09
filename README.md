@@ -1,7 +1,7 @@
 # Hello friend.
 
 <p align="center">
-My name is Francois, and I am a software developer living in Switzerland. I have five years of professional experience as a full-stack developer.
+My name is Francois, I am a french software developer living in Switzerland. I have five years of professional experience as a full-stack developer.
 My skills in front-end and back-end development allow me to efficiently produce efficient and functional interfaces.
 Graduated from the University of Paris-Descartes, I have both artistic and technical sensitivity.
 I participate in the design phases as well as in technical meetings, facilitate communication between the different profiles of a team, ensure the quality of the product and the consistency of the experience for users.
