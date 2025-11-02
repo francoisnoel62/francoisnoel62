@@ -1,10 +1,15 @@
 # Hello friend.
 
 <p align="center">
-My name is Francois, I am a french software developer living in Switzerland. I have five years of professional experience as a full-stack developer.
-My skills in front-end and back-end development allow me to efficiently produce efficient and functional interfaces.
-Graduated from the University of Paris-Descartes, I have both artistic and technical sensitivity.
-I participate in the design phases as well as in technical meetings, facilitate communication between the different profiles of a team, ensure the quality of the product and the consistency of the experience for users.
+👋 Hey there
+
+I’m François, a French full-stack developer currently exploring the world — one project and one country at a time. 🌍
+With seven years of experience in web development, I specialize in building clean, efficient, and meaningful digital products that connect design and technology.
+
+Graduated from Université Paris-Descartes, I bring together technical rigor and artistic sensibility.
+I love turning ideas into elegant code, simplifying complexity, and making technology feel effortless for users.
+
+In every team, I act as a bridge between developers, designers, and product minds — ensuring clear communication, solid architecture, and a seamless experience from prototype to production.
   <br><br>
   <img src="https://img.shields.io/badge/Python-%233776AB?&style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white alt="Django">
