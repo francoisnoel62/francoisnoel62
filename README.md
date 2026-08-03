@@ -25,7 +25,7 @@ In every team, I act as a **bridge** between developers, designers, and product 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-🌱 I’m currently building [**Hotelix**](https://github.com/francoisnoel62/hotelix) — a modern hotel management platform powered by **Next.js 15**, **TypeScript**, and **Prisma**.
+🌱 I’m currently building [**Revise Studio**](https://revise.studio/) — a modern hotel management platform powered by **Next.js 15**, **TypeScript**, and **Prisma**.
 
 ⚡ I work primarily in **VS Code**, but I still enjoy **vim** for fast edits and terminal flow.  
 
